@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Harsh Kumar
+# 👋 Hi, I’m Harsh Kumar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java and Linux
 - 💞️ I’m looking to collaborate on OpenSource
